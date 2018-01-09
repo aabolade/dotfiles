@@ -1,4 +1,4 @@
-# camsoft's dotfiles
+# dotfiles
 
 Your dotfiles are how you personalise your system.
 
