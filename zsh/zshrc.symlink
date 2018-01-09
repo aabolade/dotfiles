@@ -8,7 +8,7 @@ export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="agnoster"
 
 # Disable hostname info when logged in as me
-DEFAULT_USER="cameron"
+DEFAULT_USER="adelekea"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
